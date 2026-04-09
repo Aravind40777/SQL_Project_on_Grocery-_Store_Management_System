@@ -1,9 +1,8 @@
----
 Grocery Store Management System (SQL Project)
 
-Overview
+Overview :
 
-This project simulates a **real-world grocery store business** using SQL by designing a structured relational database and performing data analysis to extract meaningful insights.
+This project simulates a real-world grocery store business using SQL by designing a structured relational database and performing data analysis to extract meaningful insights.
 
 
 It helps in understanding:
